@@ -1,5 +1,5 @@
 # TuncdemirHenLacefield-CellReports2021
-For CellReports analysis scripts (MATLAB)
+
 MATLAB analysis scripts for main figures in Tuncdemir, Hen, Lacefield (et al.) - Cell Reports 2021 
 "Parallel processing of sensory cue and spatial information in the Dentate Gyrus". 
 Other analysis performed using code from cited references, 
